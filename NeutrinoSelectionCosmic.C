@@ -47,7 +47,7 @@ float scaledEdx(float x, int plane, bool isdata){
   }
 }
 
-void NeutrinoSelection(int is = -1){
+void NeutrinoSelectionCosmic(int is = -1){
 
   bool debug = false;
 
